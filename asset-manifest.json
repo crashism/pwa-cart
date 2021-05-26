@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pwa-cart/static/css/main.ac005e6c.chunk.css",
+    "main.js": "/pwa-cart/static/js/main.cb1c1a8e.chunk.js",
+    "main.js.map": "/pwa-cart/static/js/main.cb1c1a8e.chunk.js.map",
+    "runtime-main.js": "/pwa-cart/static/js/runtime-main.1655da36.js",
+    "runtime-main.js.map": "/pwa-cart/static/js/runtime-main.1655da36.js.map",
+    "static/js/2.939bf365.chunk.js": "/pwa-cart/static/js/2.939bf365.chunk.js",
+    "static/js/2.939bf365.chunk.js.map": "/pwa-cart/static/js/2.939bf365.chunk.js.map",
+    "static/js/3.d906eba8.chunk.js": "/pwa-cart/static/js/3.d906eba8.chunk.js",
+    "static/js/3.d906eba8.chunk.js.map": "/pwa-cart/static/js/3.d906eba8.chunk.js.map",
+    "index.html": "/pwa-cart/index.html",
+    "service-worker.js": "/pwa-cart/service-worker.js",
+    "service-worker.js.map": "/pwa-cart/service-worker.js.map",
+    "static/css/main.ac005e6c.chunk.css.map": "/pwa-cart/static/css/main.ac005e6c.chunk.css.map",
+    "static/js/2.939bf365.chunk.js.LICENSE.txt": "/pwa-cart/static/js/2.939bf365.chunk.js.LICENSE.txt",
+    "static/media/add-outline.019bb36e.svg": "/pwa-cart/static/media/add-outline.019bb36e.svg",
+    "static/media/close-outline.a22b61b1.svg": "/pwa-cart/static/media/close-outline.a22b61b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1655da36.js",
+    "static/js/2.939bf365.chunk.js",
+    "static/css/main.ac005e6c.chunk.css",
+    "static/js/main.cb1c1a8e.chunk.js"
+  ]
+}
